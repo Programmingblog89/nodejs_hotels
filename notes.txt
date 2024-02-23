@@ -1,0 +1,5 @@
+Check git version: git -v
+git init
+git status
+git add .
+single save: git add server.js
