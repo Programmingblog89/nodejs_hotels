@@ -3,3 +3,26 @@ git init
 git status
 git add .
 single save: git add server.js
+git add .gitignore
+
+How to remove added node modules from git:
+git rm -r --cached node_modules
+
+git commit -m "first version of our hotels"
+
+create new repo from github.com and you will have: git remote add origin https://github.com/Programmingblog89/nodejs_hotels.gitit
+
+and then enter this in cmd: git remote add origin https://github.com/Programmingblog89/nodejs_hotels.git of your project directory
+
+Then:
+git branch -M main
+
+Then:
+git push -u origin main
+
+
+===========================
+TO upd github code:
+Changes in code:
+
+
